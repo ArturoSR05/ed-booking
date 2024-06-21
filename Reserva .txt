@@ -1,0 +1,4 @@
+[{"idReserva":"1","usuario":
+{"dni":"dni","nombre":"nombre","apellidos":"apellidos","email":"email"},"habitacion":
+{"codHab":"12","numero":"145","descripcion":"Habitacion grande con una cama de matrimonio"},
+"fechaIni":"20-12-2024","fechaFin":"30-12-2024","precio":"780"}]
