@@ -8,14 +8,14 @@ public class Hotel {
     public final String nombre;
     public final String direccion;
     public final String poblacion;
-    public final Habitacion habitacion;
+    public final String habitaciones;
 
-    public Hotel(String idHotel, String nombre, String direccion, String poblacion, Habitacion habitacion) {
+    public Hotel(String idHotel, String nombre, String direccion, String poblacion, String habitaciones) {
         this.idHotel = idHotel;
         this.nombre = nombre;
         this.direccion = direccion;
         this.poblacion = poblacion;
-        this.habitacion = habitacion;
+        this.habitaciones = habitaciones;
     }
 
     public String getIdHotel() {
@@ -34,7 +34,7 @@ public class Hotel {
         return poblacion;
     }
 
-    public Habitacion getHabitacion() {
-        return habitacion;
+    public String getHabitaciones() {
+        return habitaciones;
     }
 }
