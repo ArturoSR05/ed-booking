@@ -1,0 +1,1 @@
+[{"idHotel":"1","nombre":"Nuevo","direccion":"Calle Serrano n24","poblacion":"Solosancho","habitaciones":"150"}]
